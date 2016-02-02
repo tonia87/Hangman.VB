@@ -1,0 +1,11 @@
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.xml
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.Resources.resources
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.vbproj.GenerateResource.Cache
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.xml
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+c:\users\tonia\documents\visual studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.frmPlay.resources
+C:\Users\tonia\Documents\Visual Studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.frmWelcome.resources
